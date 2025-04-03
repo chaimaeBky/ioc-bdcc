@@ -1,2 +1,2 @@
 <h2>Injection des dependances </h2>
-<img src="capture/tp1.jpg"></img>
+<img src="capture/TP1.jpg"></img>
